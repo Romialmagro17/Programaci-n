@@ -1,0 +1,17 @@
+# Comparación entre Programación Tradicional y POO
+
+## Programación Tradicional
+- Uso de funciones simples (`ingresar_temperaturas`, `calcular_promedio`) para dividir el problema.
+- Estructura lineal, más rápida de implementar para programas pequeños.
+- Fácil de entender para principiantes.
+- Menos escalable y difícil de mantener a medida que el programa crece.
+
+## Programación Orientada a Objetos (POO)
+- Se crean clases para representar entidades reales (`DiaClima`, `SemanaClima`).
+- Uso de encapsulamiento para proteger los datos (temperatura privada).
+- Código más organizado y reutilizable.
+- Escalable para agregar más funcionalidades (por ejemplo: humedad, presión, etc.).
+- Más adecuada para programas grandes o con múltiples estructuras de datos relacionadas.
+
+## Conclusión
+Ambos enfoques son válidos y tienen sus ventajas. Para programas pequeños, la programación tradicional es suficiente. Para proyectos más grandes y complejos, POO ofrece una estructura más robusta y profesional.
